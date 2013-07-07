@@ -22,7 +22,7 @@ I'm not a scientist. I don't really know how to use scientific data.
 
 I don't really have any plans beyond this point, just wanted to play with it (and see if I could prove living in the Bay is a TERRIBLE idea for me).
 
-Sources:
+Sources referenced above:
 - [NASA, North American Pollen Database](http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=EARTH_ATM_NGDC_PALEO_POLLEN1&MetadataView=Data&MetadataType=0&lbnode=mdlb4)
 - [National Climatic Data Center, Pollen Search](http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=518:1:2139012306693191:::APP:PROXYTOSEARCH:16:0)
 - [National Climatic Data Center site](http://www.ncdc.noaa.gov/paleo/pollen.html)
