@@ -1,0 +1,119 @@
+{
+  "rows" : [
+    {
+      "POLLEN DATA CODE" : "QUERCUS",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Quercus - Oak",
+      "TYPE" : "tree"
+    },  
+    {
+      "POLLEN DATA CODE" : "SALIX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Salix - Willow",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "CARYA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Carya - Hickory",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "BETULA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Betula - Birch ",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "ACRUBRUM",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Acer rubrum - Red Maple",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "LIQUIDAM",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Liquidambar - Sweet Gum",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "CUPRESSA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Cupressaceae - Cedar Family",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "ULMUS",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Ulmus - Elm",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "MORACEAX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Moraceae - Mulberry Family ",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "ACNEGUNA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Acer negundo - Box Elder",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "PLATANUS",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Platanus - Sycamore",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "FRAXINUX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Fraxinus - Ash ",
+      "TYPE" : "tree"
+    },
+    {
+      "POLLEN DATA CODE" : "AMBROSIA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Ambrosia - Ragweed ",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "XANTHIUM",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Xanthium - Cocklebur types",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "CHENOAMX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Chenopodiaceae/Amaranthaceae - Goosefoot/Pigweed Families",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "PLANTAGINX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Plantaginaceae - Plantain Family",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "RUMEX",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Rumex - Sorrel",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "IVA",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Iva - Marsh Elder ",
+      "TYPE" : "weed"
+    },
+    {
+      "POLLEN DATA CODE" : "POACEAE",
+      "DATA TYPE" : "[numeric]",
+      "DESCRIPTION OF VARIABLE" : "Poaceae - Grass ",
+      "TYPE" : "grass"
+    },
+  ]
+}
+

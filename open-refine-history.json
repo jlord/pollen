@@ -1,0 +1,133 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column ID1",
+    "columnName": "ID1"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Flag",
+    "columnName": "Flag"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Sites corrected",
+    "columnName": "Sites corrected"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column ENUM",
+    "columnName": "ENUM"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column SITE",
+    "columnName": "SITE"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column DBCODE",
+    "columnName": "DBCODE"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column SITECODE",
+    "columnName": "SITECODE"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column KGDISCR",
+    "columnName": "KGDISCR"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Column 160",
+    "columnName": "Column 160"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Column 161",
+    "columnName": "Column 161"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Citation",
+    "columnName": "Citation"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Notes",
+    "columnName": "Notes"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column DataForm",
+    "columnName": "DataForm"
+  },
+  {
+    "op": "core/column-reorder",
+    "description": "Reorder columns",
+    "columnNames": [
+      "AMBROSIA",
+      "POACEAE",
+      "IVA",
+      "RUMEX",
+      "PLANTAGINX",
+      "CHENOAMX",
+      "XANTHIUM",
+      "BETULA",
+      "FRAXINUX",
+      "PLATANUS",
+      "ACNEGUNA",
+      "MORACEAX",
+      "ULMUS",
+      "CUPRESSA",
+      "LIQUIDAM",
+      "ACRUBRUM",
+      "CARYA",
+      "SALIX",
+      "QUERCUS",
+      "ID2",
+      "SITENAME",
+      "LONDD",
+      "LATDD",
+      "ELEVATION",
+      "POLLSUM",
+      "DepEnv",
+      "DescrEnv",
+      "COLLECTOR",
+      "YrOfSamp",
+      "DepthAtLoc",
+      "princInvest",
+      "YrOfPubl",
+      "AuthYr"
+    ]
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column DepEnv",
+    "columnName": "DepEnv"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column AuthYr",
+    "columnName": "AuthYr"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LONDD to LONG",
+    "oldColumnName": "LONDD",
+    "newColumnName": "LONG"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column LATDD to LAT",
+    "oldColumnName": "LATDD",
+    "newColumnName": "LAT"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column princInvest",
+    "columnName": "princInvest"
+  }
+]
